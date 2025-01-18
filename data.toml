@@ -10,6 +10,22 @@ gtag_id = ""
 base_url = "https://wastubbs.github.io/contact/"
 
 [[sections]]
+title = "Huh?"
+description = "I'm shutting down my Meta accounts, and encourage you to do the same!"
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Why Signal?"
+description = "Here's a quick-start guide that talks about the primary benefits to Signal over oligarch-owned options."
+url = "https://freedom.press/digisec/blog/signal-beginners/"
+[[sections.items]]
+title = "What about cute pics of your kids???"
+description = "It's coming! Using ATProto, a platform-agnostic communications protocol started by the Bluesky team, we will soon have apps that look & feel like Instagram (Frames) & TikTok (Bluescreen)"
+url = "https://bsky.app/profile/flashesapp.bsky.social"
+url = "https://bsky.app/profile/bluescreen.blue"
+
+
+[[sections]]
 title = "Contact"
 description = "Where to find me"
 direction = "row"
@@ -26,7 +42,7 @@ url = "https://t.me/porktenderloin"
 [[sections.items]]
 title = "Email"
 icon = "https://cdn.simpleicons.org/Gmail/EA4335"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+url = "mailto:wastubbs@gmail.com"
 [[sections.items]]
 title = "Spotify"
 icon = "https://cdn.simpleicons.org/spotify/1ED760"
@@ -39,3 +55,7 @@ url = "https://www.snapchat.com/add/will3129"
 title = "Discord"
 icon = "https://cdn.simpleicons.org/discord/5865F2"
 url = "https://discord.com/users/657793002886135829"
+[[sections.items]]
+title = "Bluesky"
+icon = "https://cdn.simpleicons.org/bluesky/0285FF"
+url = "https://bsky.app/profile/wbbaggins.bsky.social"
