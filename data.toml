@@ -5,49 +5,36 @@ image = "profile-cropped.jpg"
 theme = "dark"
 primary_color = "#d81b60"
 text_align = "center"
-gtag_id = "G-XLJ81DCZFV"
-base_url = "https://thevahidal.github.io/jake"
+gtag_id = ""
+base_url = "https://wastubbs.github.io/contact/"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
-direction = "column"
-item_style = "outline"
-[[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
-[[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
-[[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
-[[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
-
-
-[[sections]]
-title = "Links"
-description = "Look for me on these websites"
+title = "Contact"
+description = "Where to find me"
 direction = "row"
 item_style = "filled"
 icon_size = "30px"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/instagram/ffffff"
-title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
+icon = "https://cdn.simpleicons.org/signal/ffffff"
+title = "Signal"
+url = "https://signal.me/#eu/0lg0xfBrgcCqjU4j-H_3sMXIYrv7TlGzF7rbDJY8L1fFhHukhDxOVIYo3zB3caXB"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/imdb/ffffff"
-title = "IMDb"
+icon = "https://cdn.simpleicons.org/telegram/ffffff"
+title = "Telegram"
 url = "https://www.imdb.com/name/nm0350453/"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
-title = "Wikipedia"
+icon = "https://cdn.simpleicons.org/sms/ffffff"
+title = "SMS"
 url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
 [[sections.items]]
-title = "Rotten Tomatoes"
-icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
+title = "Email"
+icon = "https://cdn.simpleicons.org/email/ffffff"
+url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+[[sections.items]]
+title = "Spotify"
+icon = "https://cdn.simpleicons.org/spotify/ffffff"
+url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+[[sections.items]]
+title = "Snap"
+icon = "https://cdn.simpleicons.org/snapchat/ffffff"
 url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
