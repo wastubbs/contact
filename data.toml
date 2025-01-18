@@ -35,3 +35,7 @@ url = "https://open.spotify.com/user/bokb0vp0muh7gnuuvg3cxxlnk?si=8f1f6211726049
 title = "Snap"
 icon = "https://cdn.simpleicons.org/snapchat/FFFC00"
 url = "https://www.snapchat.com/add/will3129"
+[[sections.items]]
+title = "Discord"
+icon = "https://cdn.simpleicons.org/discord/5865F2"
+url = "https://discord.com/users/657793002886135829"
