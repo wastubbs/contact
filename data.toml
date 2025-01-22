@@ -14,12 +14,12 @@ title = "Huh?"
 description = "I'm shutting down my Meta accounts, and encourage you to do the same!"
 direction = "column"
 item_style = "outline"
+#[[sections.items]]
+#title = "What about poker?"
+#embed_url = "https://docs.google.com/forms/d/e/1FAIpQLSemPjKnBI_KIxt4J_FquldDnl5XIJzNB56bfBQuqsBzLxbNhg/viewform?embedded=true"
 [[sections.items]]
-title = "What about poker?"
-embed_url = "https://docs.google.com/forms/d/e/1FAIpQLSemPjKnBI_KIxt4J_FquldDnl5XIJzNB56bfBQuqsBzLxbNhg/viewform?embedded=true"
-[[sections.items]]
-title = "Why Signal?"
-description = "Here's a quick-start guide that talks about the primary benefits to Signal over oligarch-owned options."
+title = "Why should I use Signal, can't I just text you?"
+description = "You can, but don't send me anything you don't want read by people you don't know or trust. Here's a quick-start guide that talks about the primary benefits to Signal over oligarch-owned options."
 url = "https://freedom.press/digisec/blog/signal-beginners/"
 [[sections.items]]
 title = "What about cute pics of your kids???"
